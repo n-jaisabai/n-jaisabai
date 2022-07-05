@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm NJ.</h2>
 
-<!--
-**n-jaisabai/n-jaisabai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the place where I opensource stuff and break things :rofl:
 
-Here are some ideas to get you started:
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning **Go**
+- 💬 &nbsp;ask me about anything, I'm happy to help
+- ⚡ &nbsp;Fun fact: I ❤️ PS Gaming (Online ID: **ESCYB3R**)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+  
+  I am a Full Stack Developer with 2+ years of experience in developing web applications.</p>
+</details>
+
+<details>
+  <summary><b>✨&nbsp;&nbsp;Stats</b></summary>
+  <br/>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
