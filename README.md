@@ -15,7 +15,7 @@ This is the place where I opensource stuff and break things :rofl:
 </details>
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;Stats</b></summary>
+  <summary><b>📈&nbsp;&nbsp;Stats</b></summary>
   <br/>
   
   <!--START_SECTION:waka-->
