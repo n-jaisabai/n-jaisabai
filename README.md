@@ -21,7 +21,10 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go     39 mins         █████████████████████▒░░░   84.88 %
+SQL    3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+PHP    3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Twig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
