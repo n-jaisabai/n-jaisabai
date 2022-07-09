@@ -30,12 +30,12 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Go           2 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.58 %
-Python       1 hr 54 mins    ████████▓░░░░░░░░░░░░░░░░   34.13 %
-Twig         48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-PHP          23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-SQL          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Go           4 hrs 58 mins   ██████████████░░░░░░░░░░░   55.68 %
+Python       1 hr 54 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
+Twig         48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+PHP          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
