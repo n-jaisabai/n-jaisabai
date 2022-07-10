@@ -1,5 +1,7 @@
 <h2 align="center">👋 Hello! I'm NJ.</h2>
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=n-jaisabai.n-jaisabai)
+
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
@@ -41,4 +43,3 @@ Markdown     15 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
   <b>Note:</b> Top languages is only a metric of the languages my weekly code consists of and doesn't reflect experience or skill level.
   </details>
-
