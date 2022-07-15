@@ -32,9 +32,10 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Go           6 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   47.32 %
-Python       5 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.06 %
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Go           6 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   44.79 %
+Python       5 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.10 %
+PHP          36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
