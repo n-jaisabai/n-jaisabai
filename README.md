@@ -32,12 +32,12 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Go           7 hrs 19 mins   ██████████████░░░░░░░░░░░   56.28 %
-PHP          2 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
-Twig         1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Makefile     1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-YAML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Git Config   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Go           7 hrs 49 mins   █████████████████▓░░░░░░░   70.80 %
+Makefile     1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+PHP          56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+YAML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Git Config   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Twig         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
