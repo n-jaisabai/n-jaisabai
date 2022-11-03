@@ -32,12 +32,12 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 44 mins   █████████████▓░░░░░░░░░░░   54.80 %
-Svelte       4 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-TypeScript   2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Go           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Python       8 hrs 43 mins   ██████████████████░░░░░░░   72.65 %
+TypeScript   1 hr 50 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+Svelte       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Go           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
