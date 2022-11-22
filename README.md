@@ -32,7 +32,7 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Other        36 mins         ██████████▒░░░░░░░░░░░░░░   41.17 %
+Other        36 mins         ████████▓░░░░░░░░░░░░░░░░   34.39 %
 ```
 
 <!--END_SECTION:waka-->
