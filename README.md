@@ -32,9 +32,10 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Go               2 hrs 55 mins   ████████████████▒░░░░░░░░   65.84 %
-TypeScript       40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-Other            27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Go               4 hrs 6 mins    ███████████████▒░░░░░░░░░   61.44 %
+TypeScript       56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Bash             34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Other            30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
 ```
 
 <!--END_SECTION:waka-->
