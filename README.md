@@ -32,12 +32,12 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 58 mins   ████████████░░░░░░░░░░░░░   47.56 %
-YAML         2 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
-Bash         1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Go           45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Makefile     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Vue.js       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Python       5 hrs 3 mins    ███████████▓░░░░░░░░░░░░░   46.62 %
+YAML         2 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+Bash         1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+Go           1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Makefile     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Vue.js       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
