@@ -32,12 +32,12 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 21 mins   █████████████████▒░░░░░░░   69.85 %
-Go           1 hr 40 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-TypeScript   1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python       10 hrs 25 mins  ██████████████████▒░░░░░░   73.49 %
+TypeScript   1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Go           1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
