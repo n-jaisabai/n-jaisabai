@@ -32,12 +32,12 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Python       19 hrs 7 mins   ██████████████████████▒░░   88.96 %
-Markdown     36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Go           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-YAML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Git Config   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Docker       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Python       14 hrs 33 mins  ██████████████████▓░░░░░░   74.12 %
+Go           3 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+YAML         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+SQL          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Docker       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
