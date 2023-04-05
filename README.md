@@ -32,12 +32,12 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   47.14 %
-JavaScript   2 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   35.54 %
-JSON         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Go           22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-YAML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-MDX          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Python       5 hrs 10 mins   ████████████████░░░░░░░░░   64.15 %
+JavaScript   1 hr 53 mins    ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Go           22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+MDX          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
