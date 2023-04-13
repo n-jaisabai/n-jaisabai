@@ -32,8 +32,8 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Python   50 mins         ██████████████████████░░░   87.88 %
-Go       6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Go       1 hr            ████████████████████▓░░░░   82.85 %
+Python   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
 ```
 
 <!--END_SECTION:waka-->
