@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm NJ.</h2>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=n-jaisabai.n-jaisabai)
+![Custom badge](https://img.shields.io/endpoint?color=%20%23FFA07A&style=flat-square&url=https%3A%2F%2Fhits.dwyl.com%2Fn-jaisabai%2Fn-jaisabai.json)
 
 This is the place where I opensource stuff and break things :rofl:
 
