@@ -1,7 +1,5 @@
 <h2 align="center">👋 Hello! I'm NJ.</h2>
 
-![Custom badge](https://img.shields.io/endpoint?color=%20%23FFA07A&style=flat-square&url=https%3A%2F%2Fhits.dwyl.com%2Fn-jaisabai%2Fn-jaisabai.json)
-
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
