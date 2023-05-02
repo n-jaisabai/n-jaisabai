@@ -32,9 +32,7 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Python   59 mins         ████████████████████░░░░░   79.79 %
-SQL      10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-YAML     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Python   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
