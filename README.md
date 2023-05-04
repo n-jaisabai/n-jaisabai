@@ -30,8 +30,8 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Go       5 mins          █████████████▒░░░░░░░░░░░   53.38 %
-Python   5 mins          ███████████▓░░░░░░░░░░░░░   46.62 %
+Python   17 mins         ███████████████████░░░░░░   75.80 %
+Go       5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.20 %
 ```
 
 <!--END_SECTION:waka-->
