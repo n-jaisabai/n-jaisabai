@@ -30,10 +30,9 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```text
-Python   19 mins         █████████████████▒░░░░░░░   68.81 %
-Go       5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-C#       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python   1 hr 27 mins    ████████████████████████░   96.41 %
+C#       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
