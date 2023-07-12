@@ -30,11 +30,11 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```txt
-Python       15 hrs 8 mins   ██████████████████░░░░░░░   72.19 %
-Vue.js       1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-JavaScript   1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-JSON         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-YAML         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Python       14 hrs 33 mins  ████████████████░░░░░░░░░   63.79 %
+Go           3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Vue.js       1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+YAML         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+JavaScript   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
