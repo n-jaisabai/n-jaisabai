@@ -30,7 +30,8 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 53 mins   █████████████████████████   100.00 %
+Python   4 hrs 23 mins   ████████████████████████▓   98.84 %
+Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
