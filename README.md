@@ -30,9 +30,9 @@ This is the place where I opensource stuff and break things :rofl:
   <!--START_SECTION:waka-->
 
 ```txt
-Python   6 hrs 3 mins    ██████████████████████▓░░   90.95 %
-Bash     35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-HTML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python   4 hrs 24 mins   █████████████████████▓░░░   86.47 %
+Bash     40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+HTML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
