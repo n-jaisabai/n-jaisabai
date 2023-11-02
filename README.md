@@ -1,4 +1,6 @@
-<h2 align="center">👋 Hello! I'm NJ.</h2>
+[![An image of @n7gj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/n7gj)](https://holopin.io/@n7gj)
+
+# 👋 Hello! I'm NJ.
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -8,7 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ &nbsp;Fun fact: I ❤️ PS Gaming (Online ID: **ESCYB3R**)
 
 ## ✨ &nbsp;About Me
-  I am a Full Stack Developer with 2+ years of experience in developing web applications.</p>
+  I am a Full Stack Developer with 4+ years of experience in developing web applications.</p>
   
 ## 🛠️ My favorite tools
 ![My Skills](https://skillicons.dev/icons?i=vue,go,nodejs,ts,js,python,postgres,mongodb,redis,git,docker,vscode)
