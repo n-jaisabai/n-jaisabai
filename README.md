@@ -4,7 +4,7 @@
 
 <a href="https://app.daily.dev/n7gj" target="_blank">
   <img
-    width="256"
+    width="192"
     align="right"
     src="https://github.com/n-jaisabai/n-jaisabai/blob/main/devcard.svg"
   />
