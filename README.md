@@ -2,9 +2,17 @@
 
 # 👋 Hello! I'm NJ.
 
-This is the place where I opensource stuff and break things :rofl:
+<a href="https://app.daily.dev/n7gj" target="_blank">
+  <img
+    width="256"
+    align="right"
+    src="https://github.com/n-jaisabai/n-jaisabai/blob/main/devcard.svg"
+  />
+</a>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
+This is the place where I opensource stuff and break things 🛠️
+
+- 🔭 &nbsp;I’m currently working on something cool 😎🆒
 - 🌱 &nbsp;I’m currently learning **Go**
 - 💬 &nbsp;ask me about anything, I'm happy to help
 - ⚡ &nbsp;Fun fact: I ❤️ PS Gaming (Online ID: **ESCYB3R**)
