@@ -40,7 +40,7 @@ This is the place where I opensource stuff and break things 🛠️
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
