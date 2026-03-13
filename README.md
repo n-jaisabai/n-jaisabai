@@ -29,7 +29,7 @@ This is the place where I opensource stuff and break things 🛠️
   <summary><b>🔥 &nbsp;GitHub streak</b></summary>
   <br/>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n-jaisabai&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n7gj&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
   
   </details>
   
