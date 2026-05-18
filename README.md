@@ -40,11 +40,11 @@ This is the place where I opensource stuff and break things 🛠️
   <!--START_SECTION:waka-->
 
 ```txt
-Go                         23 hrs 26 mins        █████████████▓░░░░░░░░░░░   54.83 %
-Markdown                   4 hrs 39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Other                      4 hrs 18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Python                     2 hrs 28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-YAML                       1 hr 42 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Go                         25 hrs 24 mins        █████████████▓░░░░░░░░░░░   55.08 %
+Markdown                   5 hrs 27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Other                      4 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Python                     2 hrs 28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+YAML                       2 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
